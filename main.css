@@ -1,0 +1,30 @@
+.box{
+        width: 100px;
+        height: 100px;
+        background-color: brown;
+        display: inline-block ;
+
+}
+
+
+.box1{
+width: 100px;
+height: 100px;
+background-color: chartreuse;
+display: inline-block ;
+}
+
+
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    display: inline-block;
+}
+
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: darkgreen;
+    display:inline-block;
+}
